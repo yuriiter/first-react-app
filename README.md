@@ -1,7 +1,7 @@
 # This is my first React app
 
 This is an application that reads .json file and stores the information into the table.
-You can sort the information by different values in ascending or descending order, change the view (the table and the tiles with video) and change the language.
+You can sort the information by different values in ascending or descending order, change the view (the table or the tiles with video) and change the language.
 
 ## Getting started
 
