@@ -5,7 +5,6 @@ You can sort the information by different values in ascending or descending orde
 
 ## Getting started
 
-You can view a live demo over at https://react-redux.realworld.io/
 
 To get the frontend running locally:
 
