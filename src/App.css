@@ -1,0 +1,23 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+.ui-wrapper {
+    position: sticky;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 2;
+    /* width: 100vw; */
+    background-color: white;
+    height: 170px;
+}
+
+.ui-inner-wrapper {
+    display: flex;
+    justify-content: space-around;
+    transform: scale(0.6);
+    position: relative;
+    top: -40px;
+}
